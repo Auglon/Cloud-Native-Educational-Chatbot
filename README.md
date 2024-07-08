@@ -36,5 +36,5 @@ This project aims to build and deploy a cloud-native application on Azure, follo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Auglon/Cloud-Native-Educational-Chatbot.git
    cd your-repository
